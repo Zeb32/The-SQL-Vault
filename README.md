@@ -1,7 +1,19 @@
+# The‑SQL‑Vault 🗄️
+
+A consolidated repository for all things SQL: projects, learning resources, datasets, code snippets, and experiments.
+
+## 📁 Repository Structure
+
+Organized into folders for clarity:
+
+The‑SQL‑Vault/
+├── Projects/ ← Complete SQL projects you’ve built
+├── Learning/ ← Tutorials, exercises, and study notes
+├── Datasets/ ← Sample CSVs, SQL dumps, seed data
+├── Snippets/ ← Useful SQL queries or functions
+└── README.md ← This document
 
 You can explore these folders via GitHub or clone the repo to dive in.
-
----
 
 ## 🚀 Getting Started
 
