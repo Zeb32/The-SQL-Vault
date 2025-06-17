@@ -38,7 +38,6 @@ To begin exploring:
 ## 📚 Learning Resources
 
 In `Learning/` you’ll find:
-- SQL tutorials categorized by **BEGINNER**, **INTERMEDIATE**, **ADVANCED**.
 - Practice exercises with solutions.
 - Cheat sheets covering:
   - Common commands (`SELECT`, `JOIN`, `GROUP BY`, etc.)
